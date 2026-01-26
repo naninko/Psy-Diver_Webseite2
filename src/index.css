@@ -175,16 +175,18 @@ a:focus-visible {
 /* Skip to main content link */
 .skip-link {
   position: absolute;
-  top: -40px;
+  top: -100px;
   left: 0;
   background: var(--color-navy);
   color: var(--color-white);
   padding: var(--spacing-sm);
   z-index: 100;
+  opacity: 0;
 }
 
 .skip-link:focus {
   top: 0;
+  opacity: 1;
 }
 
 /* Responsive */
