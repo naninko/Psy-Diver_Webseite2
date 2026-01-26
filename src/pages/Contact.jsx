@@ -25,35 +25,56 @@ function Contact() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Create mailto link with form data
-    const mailtoLink = `mailto:psy-diver@lvr.de?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(
-      `Name: ${formData.name}\nE-Mail: ${formData.email}\n\nNachricht:\n${formData.message}`
-    )}`;
+    try {
+      // Send form data to Formspree
+      const response = await fetch('https://formspree.io/f/xwpkgjkq', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          subject: formData.subject,
+          message: formData.message
+        })
+      });
 
-    // Open default email client
-    window.location.href = mailtoLink;
+      if (response.ok) {
+        // Show success message
+        setFormStatus({
+          submitted: true,
+          error: false
+        });
 
-    // Show success message
-    setFormStatus({
-      submitted: true,
-      error: false
-    });
+        // Reset form
+        setFormData({
+          name: '',
+          email: '',
+          subject: '',
+          message: ''
+        });
 
-    // Reset form
-    setFormData({
-      name: '',
-      email: '',
-      subject: '',
-      message: ''
-    });
-
-    // Reset success message after 5 seconds
-    setTimeout(() => {
-      setFormStatus({ submitted: false, error: false });
-    }, 5000);
+        // Reset success message after 5 seconds
+        setTimeout(() => {
+          setFormStatus({ submitted: false, error: false });
+        }, 5000);
+      } else {
+        setFormStatus({
+          submitted: false,
+          error: true
+        });
+      }
+    } catch (error) {
+      setFormStatus({
+        submitted: false,
+        error: true
+      });
+    }
   };
 
   return (
@@ -119,6 +140,12 @@ function Contact() {
               {formStatus.submitted && (
                 <div className="success-message" role="alert">
                   {t('contact.form.success')}
+                </div>
+              )}
+
+              {formStatus.error && (
+                <div className="error-message" role="alert">
+                  {t('contact.form.error')}
                 </div>
               )}
 

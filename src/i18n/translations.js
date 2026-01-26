@@ -386,6 +386,7 @@ export const translations = {
           messagePlaceholder: "Please provide details about your inquiry...",
           send: "Send Message",
           success: "Thank you for your message! We'll get back to you soon.",
+          error: "Something went wrong. Please try again or email us directly at psy-diver@lvr.de",
 
           interests: {
             research: "Research Collaboration",
@@ -973,6 +974,7 @@ export const translations = {
           messagePlaceholder: "Bitte geben Sie Details zu Ihrer Anfrage an...",
           send: "Nachricht senden",
           success: "Vielen Dank für Ihre Nachricht! Wir werden uns bald bei Ihnen melden.",
+          error: "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt an psy-diver@lvr.de",
 
           interests: {
             research: "Forschungskooperation",
