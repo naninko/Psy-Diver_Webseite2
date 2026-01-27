@@ -85,11 +85,11 @@ export const translations = {
           fundingValue: "€1 Million",
           fundingDesc: "Supported by Innovationsfonds",
           location: "Location",
-          locationValue: "Cologne, Germany",
-          locationDesc: "North Rhine-Westphalia",
+          locationValue: "Wilhelm-Griesinger-Straße 23",
+          locationDesc: "51109 Cologne, Germany",
           lead: "Lead Institution",
-          leadValue: "LVR-IFuB",
-          leadDesc: "Institut für Forschung und Bildung"
+          leadValue: "Landschaftsverband Rheinland",
+          leadDesc: "LVR-Institute for Research and Education (IFuB)\nResearch Division"
         },
 
         researchFocus: {
@@ -674,11 +674,11 @@ export const translations = {
           fundingValue: "1 Million €",
           fundingDesc: "Unterstützt durch den Innovationsfonds",
           location: "Standort",
-          locationValue: "Köln, Deutschland",
-          locationDesc: "Nordrhein-Westfalen",
+          locationValue: "Wilhelm-Griesinger-Straße 23",
+          locationDesc: "51109 Köln, Deutschland",
           lead: "Federführende Einrichtung",
-          leadValue: "LVR-IFuB",
-          leadDesc: "Institut für Forschung und Bildung"
+          leadValue: "Landschaftsverband Rheinland",
+          leadDesc: "LVR-Institut für Forschung und Bildung (IFuB)\nSparte Forschung"
         },
 
         researchFocus: {
