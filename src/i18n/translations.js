@@ -33,7 +33,7 @@ export const translations = {
         description: "A groundbreaking research initiative examining the seven diversity dimensions <strong>(gender, ethnic origin and nationality, social background, age, religion and worldview, sexual orientation and gender identity, as well as physical and mental abilities)</strong> in psychiatric care.",
 
         targetAudience: {
-          title: "Information for",
+          title: "Information",
           forPatients: {
             title: "For Affected",
             description: "Help shape the future of psychiatric care! We invite you to share your personal experiences through an interview or online questionnaire. Your voice helps us make treatments more individualized, equitable, and effective.",
@@ -622,7 +622,7 @@ export const translations = {
         description: "Eine wegweisende Forschungsinitiative, die die sieben Diversitätsdimensionen <strong>(Geschlecht, ethnische Herkunft und Nationalität, soziale Herkunft, Lebensalter, Religion und Weltanschauung, sexuelle Orientierung und geschlechtliche Identität, sowie körperliche und geistige Fähigkeiten)</strong> in der psychiatrischen Versorgung untersucht.",
 
         targetAudience: {
-          title: "Informationen für",
+          title: "Informationen",
           forPatients: {
             title: "Für Betroffene",
             description: "Gestalten Sie die psychiatrische Versorgung der Zukunft aktiv mit! Wir laden Sie ein, Ihre persönlichen Erfahrungen im Rahmen eines Interviews oder eines Online-Fragebogens mit uns zu teilen. Ihre Stimme hilft uns dabei, Behandlungen individueller, gerechter und wirksamer zu machen.",
