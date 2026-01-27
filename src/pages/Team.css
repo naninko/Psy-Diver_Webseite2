@@ -2,7 +2,7 @@
 
 /* Hero Section */
 .team-hero {
-  background: linear-gradient(135deg, var(--color-green) 0%, #00906D 50%, var(--color-green) 100%);
+  background: linear-gradient(135deg, var(--color-cyan) 0%, var(--color-magenta) 100%);
   color: var(--color-white);
   padding: var(--spacing-xxl) 0;
   text-align: center;

@@ -1,6 +1,6 @@
 /* Page Header */
 .page-header {
-  background: linear-gradient(135deg, var(--color-green) 0%, #00906D 100%);
+  background: linear-gradient(135deg, var(--color-cyan) 0%, var(--color-magenta) 100%);
   color: var(--color-white);
   padding: var(--spacing-xxl) 0 var(--spacing-xl);
   text-align: center;
@@ -194,7 +194,7 @@
 /* Contact CTA Section */
 .contact-cta-section {
   padding: var(--spacing-xxl) 0;
-  background: linear-gradient(135deg, var(--color-green) 0%, #00906D 100%);
+  background: linear-gradient(135deg, var(--color-cyan) 0%, var(--color-magenta) 100%);
   color: var(--color-white);
 }
 
