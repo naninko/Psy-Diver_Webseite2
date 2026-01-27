@@ -15,15 +15,6 @@ function News() {
       color: 'var(--color-coral)'
     },
     {
-      id: 2,
-      dateKey: 'news.items.item2.date',
-      titleKey: 'news.items.item2.title',
-      categoryKey: 'teamNews',
-      excerptKey: 'news.items.item2.excerpt',
-      contentKey: 'news.items.item2.content',
-      color: 'var(--color-magenta)'
-    },
-    {
       id: 1,
       dateKey: 'news.items.item1.date',
       titleKey: 'news.items.item1.title',
