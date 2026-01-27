@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import './Home.css';
-import heroLogo from '/Logo2.png';
+import heroLogo from '/PsyDiver_Logo_reversed.png';
 
 function Home() {
   const { t } = useTranslation();

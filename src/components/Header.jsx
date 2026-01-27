@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import LanguageSwitcher from './LanguageSwitcher';
 import './Header.css';
-import logo from '/image001.png';
+import logo from '/FINAL_psydiver_logo.png';
 
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

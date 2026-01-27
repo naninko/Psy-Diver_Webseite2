@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import './Footer.css';
-import logo from '/image001.png';
+import logo from '/FINAL_psydiver_logo.png';
 
 function Footer() {
   const currentYear = new Date().getFullYear();
