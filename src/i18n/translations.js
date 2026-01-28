@@ -355,7 +355,7 @@ export const translations = {
 
         getInTouch: {
           title: "Get In Touch",
-          description: "Do you have questions about the project, would you like to contribute your perspective, or learn more about our research? We look forward to dialogue with patients, relatives, healthcare professionals, and stakeholders from science and politics."
+          description: "Do you have questions about the project, would you like to contribute your perspective, or learn more about our research? We look forward to dialogue with affected individuals, relatives and close ones, healthcare professionals, and stakeholders from science and politics."
         },
 
         details: {
@@ -973,7 +973,7 @@ export const translations = {
 
         getInTouch: {
           title: "Kontaktieren Sie uns",
-          description: "Haben Sie Fragen zum Projekt, möchten Sie Ihre Perspektive einbringen oder mehr über unsere Forschung erfahren? Wir freuen uns über den Austausch mit Betroffene, Angehörigen, Fachpersonal sowie Akteuren aus Wissenschaft und Politik."
+          description: "Haben Sie Fragen zum Projekt, möchten Sie Ihre Perspektive einbringen oder mehr über unsere Forschung erfahren? Wir freuen uns über den Austausch mit Betroffenen, An- und Zugehörigen, Fachpersonal sowie Akteur*innen aus Wissenschaft und Politik."
         },
 
         details: {
