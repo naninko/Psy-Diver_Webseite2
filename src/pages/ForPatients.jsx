@@ -44,6 +44,22 @@ function ForPatients() {
               </div>
             </div>
 
+            <h2>{t('forPatients.participation.title')}</h2>
+            <div className="faq-section">
+              <div className="faq-item">
+                <h4>{t('forPatients.participation.method1.title')}</h4>
+                <p>{t('forPatients.participation.method1.description')}</p>
+              </div>
+              <div className="faq-item">
+                <h4>{t('forPatients.participation.method2.title')}</h4>
+                <p>{t('forPatients.participation.method2.description')}</p>
+              </div>
+              <div className="faq-item">
+                <h4>{t('forPatients.participation.method3.title')}</h4>
+                <p>{t('forPatients.participation.method3.description')}</p>
+              </div>
+            </div>
+
             <h2>{t('forPatients.faq.title')}</h2>
             <div className="faq-section">
               <div className="faq-item">

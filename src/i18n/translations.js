@@ -54,7 +54,7 @@ export const translations = {
         highlights: {
           title: "Project Highlights",
           intro: {
-            para1: "The PSY-DIVER project addresses this issue by examining how patients can be treated in a more individualized, gender- and diversity-appropriate manner in the future. Data from a large psychiatric clinic network with approximately 50,000 inpatient and 170,000 outpatient cases annually are used for this purpose. The focus is specifically on differences in medication, applied therapies, and treatment success – depending on gender, origin, living situation, or other characteristics. Additionally, patients, relatives, and healthcare professionals are surveyed so that their experiences and needs are better understood. The goal is psychiatric care that considers all people.",
+            para1: "The PSY-DIVER project addresses this issue by examining how patients can be treated in a more individualized, gender- and diversity-appropriate manner in the future. Data from a large psychiatric clinic network with approximately 50,000 inpatient and 170,000 outpatient cases annually are used for this purpose. The focus is specifically on differences in medication, applied therapies, and treatment success – depending on gender, origin, living situation, or other characteristics. Additionally, patients, relatives and close ones, and healthcare professionals are surveyed so that their experiences and needs are better understood. The goal is psychiatric care that considers all people.",
             para2: "The project uses a so-called mixed-methods design. This combines the analysis of large amounts of data with personal surveys. Artificial intelligence is used to extract additional information from digital medical records. At the same time, personal perspectives are incorporated through interviews and questionnaires. In a structured participation process, the results are then evaluated together with those affected and experts to develop recommendations for action.",
             para3: "The project is funded for three years with a total of approximately one million euros.",
             para4: "The recommendations for action will help make psychiatric care more equitable, individualized, and effective in the future – for all patients, regardless of their gender or social background."
@@ -127,9 +127,9 @@ export const translations = {
 
         overview: {
           title: "Project Overview",
-          text: "Mental illnesses affect many people, but not all in the same way. Gender, origin, social status, housing situation, and other aspects (the seven diversity dimensions of the <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Diversity Charter</a>) influence how individuals become ill, which therapies they receive, and how effective they are. Nevertheless, these differences are hardly systematically integrated into psychiatric care.\n\nThe PSY-DIVER project is funded by the Innovation Committee of the Federal Joint Committee (G-BA) and examines how these and other diversity-related factors can be better considered in the future. For this purpose, data from the LVR clinic network, which annually treats around 50,000 inpatient and 170,000 outpatient individuals with mental illnesses, will be analyzed. In addition, affected individuals, relatives, and professionals will be surveyed so that their experiences and needs are better understood. The project integrates elements of participatory research in which those affected are actively involved. After data analysis, the goal is the joint development of recommendations for gender- and diversity-sensitive design of psychiatric care.",
+          text: "Mental illnesses affect many people, but not all in the same way. Gender, origin, social status, housing situation, and other aspects (the seven diversity dimensions of the <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Diversity Charter</a>) influence how individuals become ill, which therapies they receive, and how effective they are. Nevertheless, these differences are hardly systematically integrated into psychiatric care.\n\nThe PSY-DIVER project is funded by the Innovation Committee of the Federal Joint Committee (G-BA) and examines how these and other diversity-related factors can be better considered in the future. For this purpose, data from the LVR clinic network, which annually treats around 50,000 inpatient and 170,000 outpatient individuals with mental illnesses, will be analyzed. In addition, affected individuals, relatives and close ones, and professionals will be surveyed so that their experiences and needs are better understood. The project integrates elements of participatory research in which those affected are actively involved. After data analysis, the goal is the joint development of recommendations for gender- and diversity-sensitive design of psychiatric care.",
           para1: "Mental illnesses affect many people, but not all in the same way. Gender, origin, social status, housing situation, and other aspects (the seven diversity dimensions of the <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Diversity Charter</a>) influence how individuals become ill, which therapies they receive, and how effective they are. Nevertheless, these differences are hardly systematically integrated into psychiatric care.",
-          para2: "The PSY-DIVER project is funded by the Innovation Committee of the Federal Joint Committee (G-BA) and examines how these and other diversity-related factors can be better considered in the future. For this purpose, data from the LVR clinic network, which annually treats around 50,000 inpatient and 170,000 outpatient individuals with mental illnesses, will be analyzed. In addition, affected individuals, relatives, and professionals will be surveyed so that their experiences and needs are better understood. The project integrates elements of participatory research in which those affected are actively involved. After data analysis, the goal is the joint development of recommendations for gender- and diversity-sensitive design of psychiatric care.",
+          para2: "The PSY-DIVER project is funded by the Innovation Committee of the Federal Joint Committee (G-BA) and examines how these and other diversity-related factors can be better considered in the future. For this purpose, data from the LVR clinic network, which annually treats around 50,000 inpatient and 170,000 outpatient individuals with mental illnesses, will be analyzed. In addition, affected individuals, relatives and close ones, and professionals will be surveyed so that their experiences and needs are better understood. The project integrates elements of participatory research in which those affected are actively involved. After data analysis, the goal is the joint development of recommendations for gender- and diversity-sensitive design of psychiatric care.",
           partners: "PSY-DIVER is a project of the <strong>LVR Institute for Research and Education (IFuB)</strong>, funded by the <strong>Innovation Fund of the Federal Joint Committee (G-BA)</strong> and supported by the <strong>German Association for Psychiatry, Psychotherapy and Psychosomatics (DGPPN)</strong>."
         },
 
@@ -156,7 +156,7 @@ export const translations = {
 
         studyDesign: {
           title: "Study Design & Target Population",
-          text: "PSY-DIVER uses a mixed-methods design. This combines the analysis of large amounts of data with personal surveys. The study design follows a participatory-generative approach and involves people affected by psychiatric illnesses, as well as relatives of those affected and clinical professionals in core decision-making areas of the project. With the help of artificial intelligence, additional information is obtained from the digital medical records of the nine psychiatric specialty clinics of the LVR. At the same time, personal perspectives are incorporated through qualitative interviews and questionnaires. In a strucligation process, the results are finally evaluated together with affected individuals and professionals, and recommendations for action are developed."
+          text: "PSY-DIVER uses a mixed-methods design. This combines the analysis of large amounts of data with personal surveys. The study design follows a participatory-generative approach and involves people affected by psychiatric illnesses, as well as relatives and close ones of those affected and clinical professionals in core decision-making areas of the project. With the help of artificial intelligence, additional information is obtained from the digital medical records of the nine psychiatric specialty clinics of the LVR. At the same time, personal perspectives are incorporated through qualitative interviews and questionnaires. In a strucligation process, the results are finally evaluated together with affected individuals and professionals, and recommendations for action are developed."
         },
 
         fundersPartners: {
@@ -476,6 +476,21 @@ export const translations = {
           title: "Breaking Down Barriers Together",
           description: "We particularly seek people whose perspectives are often underrepresented (e.g., due to age, migration history, LGBTQIA* identity, or social barriers)."
         },
+        participation: {
+          title: "Ways to Participate",
+          method1: {
+            title: "Interview for Affected Persons (approx. 60 min.)",
+            description: "A conversation (online or on-site) about your experiences with psychiatric care, perceived barriers, and your needs for diversity-sensitive treatment."
+          },
+          method2: {
+            title: "Online Survey (approx. 30–45 min.)",
+            description: "One-time participation in a structured survey about your treatment experiences, perceived barriers, and suggestions for improvement."
+          },
+          method3: {
+            title: "Co-Creation Workshop",
+            description: "Collaborative development of recommendations together with researchers and other participants to ensure that the results reflect the real needs of those affected."
+          }
+        },
         faq: {
           title: "Frequently Asked Questions",
           question1: "Will my information be kept confidential?",
@@ -515,6 +530,21 @@ export const translations = {
         card4: {
           title: "Breaking Down Barriers Together",
           description: "We especially seek people whose perspectives are often underrepresented (e.g., due to age, migration history, LGBTQIA* identity, or social barriers)."
+        },
+        participation: {
+          title: "Ways to Participate",
+          method1: {
+            title: "Interview for Relatives and Close Ones (approx. 60 min.)",
+            description: "A conversation (online or on-site) about your experiences accompanying a person with mental illness through the care system, perceived barriers, and your needs."
+          },
+          method2: {
+            title: "Online Survey (approx. 30–45 min.)",
+            description: "One-time participation in a structured survey about your experiences, perceived barriers, and suggestions for improvement in psychiatric care."
+          },
+          method3: {
+            title: "Co-Creation Workshop",
+            description: "Collaborative development of recommendations together with researchers and other participants to ensure that the results reflect the real needs of relatives and close ones."
+          }
         },
         faq: {
           title: "Frequently Asked Questions",
@@ -643,7 +673,7 @@ export const translations = {
         highlights: {
           title: "Projekt-Highlights",
           intro: {
-            para1: "Das Projekt PSY-DIVER setzt hier an und untersucht, wie Patientinnen und Patienten künftig individueller, geschlechts- und diversitätsgerechter betrachtet und behandelt werden können. Hierzu werden Daten aus einem großen psychiatrischen Klinikverbund mit jährlich rund 50.000 stationären und 170.000 ambulanten Fällen herangezogen. Dabei wird gezielt auf Unterschiede etwa in der Medikation, den angewandten Therapien und dem Behandlungserfolg – je nach Geschlecht, Herkunft, Wohnsituation oder weiteren Merkmalen geschaut. Zusätzlich werden Patientinnen und Patienten, Angehörige sowie Fachpersonal befragt, um ihre Erfahrungen und Bedürfnisse besser zu verstehen. Das Ziel ist eine psychiatrische Versorgung, die alle Menschen im Blick hat.",
+            para1: "Das Projekt PSY-DIVER setzt hier an und untersucht, wie Patientinnen und Patienten künftig individueller, geschlechts- und diversitätsgerechter betrachtet und behandelt werden können. Hierzu werden Daten aus einem großen psychiatrischen Klinikverbund mit jährlich rund 50.000 stationären und 170.000 ambulanten Fällen herangezogen. Dabei wird gezielt auf Unterschiede etwa in der Medikation, den angewandten Therapien und dem Behandlungserfolg – je nach Geschlecht, Herkunft, Wohnsituation oder weiteren Merkmalen geschaut. Zusätzlich werden Patientinnen und Patienten, An- und Zugehörigen sowie Fachpersonal befragt, um ihre Erfahrungen und Bedürfnisse besser zu verstehen. Das Ziel ist eine psychiatrische Versorgung, die alle Menschen im Blick hat.",
             para2: "Das Projekt nutzt ein sogenanntes Mixed-Methods-Design. Dabei werden die Auswertungen großer Datenmengen und persönlicher Befragungen kombiniert. Mithilfe von künstlicher Intelligenz werden aus den digitalen Krankenakten zusätzliche Informationen gewonnen. Gleichzeitig fließen über Interviews und Fragebögen persönliche Sichtweisen ein. In einem strukturierten Beteiligungsprozess werden die Ergebnisse schließlich gemeinsam mit Betroffenen und Fachleuten bewertet und Handlungsempfehlungen erarbeitet.",
             para3: "Das Projekt wird für drei Jahre mit insgesamt ca. einer Millionen Euro gefördert.",
             para4: "Die Handlungsempfehlungen werden dazu beitragen, die psychiatrische Versorgung künftig gerechter, individueller und wirksamer zu gestalten – und zwar für alle Patientinnen und Patienten, unabhängig von ihrem Geschlecht oder ihrem sozialen Hintergrund."
@@ -716,9 +746,9 @@ export const translations = {
 
         overview: {
           title: "Projektübersicht",
-          text: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrischen Versorgung berücksichtigt.\n\nDas Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, Angehörige und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
+          text: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrischen Versorgung berücksichtigt.\n\nDas Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
           para1: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrischen Versorgung berücksichtigt.",
-          para2: "Das Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, Angehörige und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
+          para2: "Das Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
           partners: "PSY-DIVER ist ein Projekt des <strong>LVR-Instituts für Forschung und Bildung (IFuB)</strong>, das durch den <strong>Innovationsfonds des Gemeinsamen Bundesausschusses (G-BA)</strong> gefördert und durch die <strong>Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde e. V. (DGPPN)</strong> unterstützt wird."
         },
 
@@ -745,7 +775,7 @@ export const translations = {
 
         studyDesign: {
           title: "Studiendesign & Zielpopulation",
-          text: "PSY-DIVER nutzt ein Mixed-Methods-Design. Dabei werden die Auswertungen großer Datenmengen und persönlicher Befragungen kombiniert. Das Studiendesign folgt dabei einem partizipativ-generativen Ansatz und zieht Betroffene von psychiatrischen Erkrankungen, aber auch Angehörige von Betroffenen und klinische Fachkräfte in Kernentscheidungsbereiche des Projekts mit ein. Mithilfe von künstlicher Intelligenz werden aus den digitalen Krankenakten der neun psychiatrischen Fachklinken des LVR zusätzliche Informationen gewonnen. Gleichzeitig fließen über qualitative Interviews und Fragebögen persönliche Sichtweisen ein. In einem strukturierten Beteiligungsprozess werden die Ergebnisse schließlich gemeinsam mit Betroffenen und Fachleuten bewertet und Handlungsempfehlungen erarbeitet."
+          text: "PSY-DIVER nutzt ein Mixed-Methods-Design. Dabei werden die Auswertungen großer Datenmengen und persönlicher Befragungen kombiniert. Das Studiendesign folgt dabei einem partizipativ-generativen Ansatz und zieht Betroffene von psychiatrischen Erkrankungen, aber auch An- und Zugehörigen von Betroffenen und klinische Fachkräfte in Kernentscheidungsbereiche des Projekts mit ein. Mithilfe von künstlicher Intelligenz werden aus den digitalen Krankenakten der neun psychiatrischen Fachklinken des LVR zusätzliche Informationen gewonnen. Gleichzeitig fließen über qualitative Interviews und Fragebögen persönliche Sichtweisen ein. In einem strukturierten Beteiligungsprozess werden die Ergebnisse schließlich gemeinsam mit Betroffenen und Fachleuten bewertet und Handlungsempfehlungen erarbeitet."
         },
 
         fundersPartners: {
@@ -1064,6 +1094,21 @@ export const translations = {
           title: "Gemeinsam Barrieren abbauen",
           description: "Wir suchen insbesondere Menschen, deren Perspektiven oft zu wenig berücksichtigt werden (z. B. aufgrund von Alter, Migrationsgeschichte, LGBTQIA*-Identität oder sozialen Hürden)."
         },
+        participation: {
+          title: "Wege der Beteiligung",
+          method1: {
+            title: "Betroffenen-Interview (ca. 60 Min.)",
+            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen mit der psychiatrischen Versorgung, wahrgenommene Barrieren und Ihre Bedürfnisse für eine diversitätssensible Behandlung."
+          },
+          method2: {
+            title: "Online-Befragung (ca. 30–45 Min.)",
+            description: "Einmalige Teilnahme an einer strukturierten Erhebung zu Ihren Behandlungserfahrungen, wahrgenommenen Barrieren und Verbesserungsvorschlägen."
+          },
+          method3: {
+            title: "Co-Creation Workshop",
+            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forschenden und anderen Teilnehmenden, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der Betroffenen widerspiegeln."
+          }
+        },
         faq: {
           title: "Häufig gestellte Fragen",
           question1: "Werden meine Informationen vertraulich behandelt?",
@@ -1103,6 +1148,21 @@ export const translations = {
         card4: {
           title: "Gemeinsam Barrieren abbauen",
           description: "Wir suchen insbesondere Menschen, deren Perspektiven oft zu wenig berücksichtigt werden (z. B. aufgrund von Alter, Migrationsgeschichte, LGBTQIA*-Identität oder sozialen Hürden)."
+        },
+        participation: {
+          title: "Wege der Beteiligung",
+          method1: {
+            title: "An- und Zugehörigen-Interview (ca. 60 Min.)",
+            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen als An- oder Zugehörige*r eines Menschen mit psychischer Erkrankung, wahrgenommene Barrieren im Versorgungssystem und Ihre Bedürfnisse."
+          },
+          method2: {
+            title: "Online-Befragung (ca. 30–45 Min.)",
+            description: "Einmalige Teilnahme an einer strukturierten Erhebung zu Ihren Erfahrungen, wahrgenommenen Barrieren und Verbesserungsvorschlägen in der psychiatrischen Versorgung."
+          },
+          method3: {
+            title: "Co-Creation Workshop",
+            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forschenden und anderen Teilnehmenden, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der An- und Zugehörigen widerspiegeln."
+          }
         },
         faq: {
           title: "Häufig gestellte Fragen",

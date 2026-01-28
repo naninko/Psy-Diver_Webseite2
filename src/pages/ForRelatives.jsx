@@ -44,6 +44,22 @@ function ForRelatives() {
               </div>
             </div>
 
+            <h2>{t('forRelatives.participation.title')}</h2>
+            <div className="faq-section">
+              <div className="faq-item">
+                <h4>{t('forRelatives.participation.method1.title')}</h4>
+                <p>{t('forRelatives.participation.method1.description')}</p>
+              </div>
+              <div className="faq-item">
+                <h4>{t('forRelatives.participation.method2.title')}</h4>
+                <p>{t('forRelatives.participation.method2.description')}</p>
+              </div>
+              <div className="faq-item">
+                <h4>{t('forRelatives.participation.method3.title')}</h4>
+                <p>{t('forRelatives.participation.method3.description')}</p>
+              </div>
+            </div>
+
             <h2>{t('forRelatives.faq.title')}</h2>
             <div className="faq-section">
               <div className="faq-item">
