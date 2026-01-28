@@ -101,31 +101,6 @@ function Home() {
         </div>
       </section>
 
-      {/* Project Info */}
-      <section className="project-info">
-        <div className="container">
-          <div className="info-grid">
-            <div className="info-card">
-              <h3>{t('home.projectInfo.duration')}</h3>
-              <p className="info-highlight">{t('home.projectInfo.durationValue')}</p>
-              <p>{t('home.projectInfo.durationDesc')}</p>
-            </div>
-
-            <div className="info-card">
-              <h3>{t('home.projectInfo.location')}</h3>
-              <p className="info-highlight">{t('home.projectInfo.locationValue')}</p>
-              <p>{t('home.projectInfo.locationDesc')}</p>
-            </div>
-
-            <div className="info-card">
-              <h3>{t('home.projectInfo.lead')}</h3>
-              <p className="info-highlight">{t('home.projectInfo.leadValue')}</p>
-              <p>{t('home.projectInfo.leadDesc')}</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* CTA Section */}
       <section className="cta">
         <div className="container">

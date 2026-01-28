@@ -455,7 +455,7 @@ export const translations = {
         subtitle: "Inclusion of perspectives from people with mental illness",
         whatIsThis: {
           title: "What is PSY-DIVER?",
-          description: "PSY-DIVER is a research initiative examining how psychiatric hospital care can become more equitable and sensitive for all people. We research today for the care of tomorrow. Your perspective is central: We want to understand where barriers exist in the system and how personal backgrounds <strong style='color: var(--color-navy);'>(gender, sexuality, origin, age, religion, or physical & mental abilities)</strong> influence treatment."
+          description: "PSY-DIVER is a research initiative examining how psychiatric hospital care can become more equitable and sensitive for all people. We research today for the care of tomorrow. Your perspective is central: We want to understand where barriers exist in the system and how personal backgrounds <strong style='color: var(--color-navy);'>(gender and gender identity, migration background and nationality, physical and mental abilities, age, religion and worldview, sexual orientation and social background)</strong> influence treatment."
         },
         whatWeOffer: {
           title: "How You Can Participate"
@@ -479,9 +479,9 @@ export const translations = {
         faq: {
           title: "Frequently Asked Questions",
           question1: "Will my information be kept confidential?",
-          answer1: "Yes. All data is handled according to strict privacy regulations, anonymized, and treated with research ethics. Your participation is voluntary and confidential.",
-          question2: "Who are you particularly looking for in this research?",
-          answer2: "The research focuses on people who are or have been affected by mental illness themselves. We particularly seek people whose perspectives are often underrepresented in psychiatric care (e.g., women, older people, people from the LGBTQIA* community, with migration history, disabilities, non-white skin color, low educational opportunities, and low income).",
+          answer1: "Yes. All data is pseudonymized or anonymized in accordance with strict data protection regulations and treated according to research ethics guidelines.",
+          question2: "Who is being sought?",
+          answer2: "The research focuses on people who are or have been affected by mental illness themselves and have had psychiatric treatment experience. We particularly seek people whose perspectives are often underrepresented in psychiatric care (e.g., women, older people, people from the LGBTQIA* community, with migration history, disabilities, non-white skin color, low educational opportunities, and low income).",
           question3: "How can I participate?",
           answer3: "If you would like to participate in the study, you can contact us directly to participate either in a personal interview or in our online survey.",
           question4: "How does this research help?",
@@ -492,17 +492,17 @@ export const translations = {
       // For Relatives Page
       forRelatives: {
         title: "For Relatives",
-        subtitle: "Inclusion of perspectives from relatives of people with mental illness",
+        subtitle: "Inclusion of perspectives from relatives and close ones of people with mental illness",
         whatIsThis: {
           title: "Why This Research Matters for Families",
-          description: "PSY-DIVER is a research initiative examining how psychiatric hospital care can become more equitable and sensitive for all people. We research today for tomorrow's care. Your perspective is at the center: We want to understand where barriers exist in the system and how personal backgrounds <strong style='color: var(--color-navy);'>(gender, sexuality, origin, age, religion, or physical & mental abilities)</strong> influence treatment."
+          description: "PSY-DIVER is a research initiative examining how psychiatric hospital care can become more equitable and sensitive for all people. We research today for tomorrow's care. Your perspective is at the center: We want to understand where barriers exist in the system and how personal backgrounds <strong style='color: var(--color-navy);'>(gender and gender identity, migration background and nationality, physical and mental abilities, age, religion and worldview, sexual orientation and social background)</strong> influence treatment."
         },
         whatWeOffer: {
           title: "How You Can Participate"
         },
         card1: {
           title: "Your Voice Matters",
-          description: "As a relative, you see obstacles that often remain hidden to others. Your perspective is indispensable to complete the picture. Share your experiences in an interview or online survey and help us close gaps in care."
+          description: "As a relative or close one, you see obstacles that often remain hidden to others. Your perspective is indispensable to complete the picture. Share your experiences in an interview or online survey and help us close gaps in care."
         },
         card2: {
           title: "Science That Makes a Difference",
@@ -519,15 +519,15 @@ export const translations = {
         faq: {
           title: "Frequently Asked Questions",
           question1: "Will my information be kept confidential?",
-          answer1: "Yes. All data will be anonymized and treated according to strict data protection regulations and research ethics. Your participation is voluntary and confidential.",
+          answer1: "Yes. All data is pseudonymized or anonymized in accordance with strict data protection regulations and treated according to research ethics guidelines.",
           question2: "Why is your perspective needed?",
-          answer2: "As a relative, you accompany the treatment journey from close proximity. You often perceive obstacles, misunderstandings, or problems differently than those affected or clinic staff. Your view is indispensable to complete the picture.",
-          question3: "Who are you especially looking for in this research?",
-          answer3: "We are looking for relatives of people whose perspectives are often underrepresented in psychiatric care (e.g., women, older people, people from the LGBTQIA* community, with migration history, disability, non-white skin color, low educational opportunities, and low income).",
+          answer2: "As a relative or close one, you accompany the treatment journey from close proximity. You often perceive obstacles, misunderstandings, or problems differently than those affected or clinic staff. Your view is indispensable to complete the picture.",
+          question3: "Who is being sought?",
+          answer3: "We are looking for relatives and close ones of people whose perspectives are often underrepresented in psychiatric care (e.g., women, older people, people from the LGBTQIA* community, with migration history, disability, non-white skin color, low educational opportunities, and low income).",
           question4: "How can I participate?",
           answer4: "If you would like to participate in the study, you can contact us directly to participate either in a personal interview or in our online survey.",
           question5: "How does this research help?",
-          answer5: "PSY-DIVER is not a therapeutic offering. Even if you do not see immediate change in your relative's current treatment, you make a valuable contribution to improving care for future affected individuals."
+          answer5: "PSY-DIVER is not a therapeutic offering. Even if you do not see immediate change in the current treatment of your relative or close one, you make a valuable contribution to improving care for future affected individuals."
         }
       },
 
@@ -582,7 +582,7 @@ export const translations = {
           question3: "How can I participate?",
           answer3: "Professionals are invited to share their perspectives through interviews, surveys, and/or co-creation workshops. Feel free to contact us to learn more about participation opportunities.",
           question4: "When will research results be available?",
-          answer4: "The project runs from November 2025 to October 2028. Preliminary results will be shared at conferences and in publications throughout the study period with comprehensive recommendations at project completion. Further updates can be found in our 'News' section."
+          answer4: "The project runs from November 2025 to October 2028. Preliminary results will be shared at conferences and in publications throughout the study period with comprehensive recommendations at project completion. Further updates can be found in our <a href='/Psy-Diver_Webseite2/news'><strong>News</strong></a> section."
         }
       }
     }
@@ -1043,14 +1043,14 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von Menschen mit psychischen Erkrankungen",
         whatIsThis: {
           title: "Was ist PSY-DIVER?",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht, Sexualität, Herkunft, Alter, Religion oder körperliche & geistige Fähigkeiten)</strong> die Behandlung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
         },
         card1: {
           title: "Ihre Stimme zählt",
-          description: "Durch ein Interview oder Online-Befragung können Sie Ihre Erfahrungen und Perspektiven teilen. Ihre Stimme hilft uns zu verstehen, wo Sie sich gut verstanden oder eher missverstanden gefühlt haben und wo das System Barrieren abbauen muss."
+          description: "Durch ein Interview oder eine Online-Befragung können Sie Ihre Erfahrungen und Perspektiven teilen. Ihre Stimme hilft uns zu verstehen, wo Sie sich gut verstanden oder eher missverstanden gefühlt haben und wo das System Barrieren abbauen muss."
         },
         card2: {
           title: "Wissenschaft, die ankommt",
@@ -1067,9 +1067,9 @@ export const translations = {
         faq: {
           title: "Häufig gestellte Fragen",
           question1: "Werden meine Informationen vertraulich behandelt?",
-          answer1: "Ja. Alle Daten werden gemäß strengen Datenschutzbestimmungen anonymisiert und forschungsethisch behandelt. Ihre Teilnahme ist freiwillig und vertraulich.",
-          question2: "Wen suchen Sie besonders für diese Forschung?",
-          answer2: "Die Forschung bezieht sich auf Menschen, die selbst von einer psychischen Erkrankung betroffen sind oder waren. Wir suchen insbesondere Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
+          answer1: "Ja. Alle Daten werden gemäß strengen Datenschutzbestimmungen pseudonymisiert oder anonymisiert und gemäß den forschungsethischen Richtlinien behandelt.",
+          question2: "Wer wird gesucht?",
+          answer2: "Die Forschung bezieht sich auf Menschen, die selbst von einer psychischen Erkrankung betroffen sind oder waren und psychiatrische Behandlungserfahrung gemacht haben. Wir suchen insbesondere Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
           question3: "Wie kann ich teilnehmen?",
           answer3: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question4: "Wie hilft diese Forschung?",
@@ -1080,17 +1080,17 @@ export const translations = {
       // For Relatives Page
       forRelatives: {
         title: "Für Angehörige",
-        subtitle: "Einbeziehung der Perspektiven von Angehörigen psychisch erkrankter Menschen",
+        subtitle: "Einbeziehung der Perspektiven von An- und Zugehörigen psychisch erkrankter Menschen",
         whatIsThis: {
           title: "Warum diese Forschung für Familien wichtig ist",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht, Sexualität, Herkunft, Alter, Religion oder körperliche & geistige Fähigkeiten)</strong> die Behandlung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
         },
         card1: {
           title: "Ihre Stimme zählt",
-          description: "Als Angehörige*r sehen Sie Hürden, die anderen oft verborgen bleiben. Ihre Perspektive ist unverzichtbar, um das Bild zu vervollständigen. Teilen Sie Ihre Erfahrungen in einem Interview oder per Online-Fragebogen und helfen Sie uns, Versorgungslücken zu schließen."
+          description: "Als An- und Zugehörige*r sehen Sie Hürden, die anderen oft verborgen bleiben. Ihre Perspektive ist unverzichtbar, um das Bild zu vervollständigen. Teilen Sie Ihre Erfahrungen in einem Interview oder per Online-Fragebogen und helfen Sie uns, Versorgungslücken zu schließen."
         },
         card2: {
           title: "Wissenschaft, die ankommt",
@@ -1107,15 +1107,15 @@ export const translations = {
         faq: {
           title: "Häufig gestellte Fragen",
           question1: "Werden meine Informationen vertraulich behandelt?",
-          answer1: "Ja. Alle Daten werden gemäß strengen Datenschutzbestimmungen anonymisiert und forschungsethisch behandelt. Ihre Teilnahme ist freiwillig und vertraulich.",
-          question2: "Wieso ist ihre Perspektive gefragt?",
-          answer2: "Als Angehörige*r begleiten Sie den Behandlungsweg aus nächster Nähe. Sie nehmen Hürden, Missverständnisse oder Probleme oft anders wahr als die Betroffenen selbst oder das Klinikpersonal. Um das Bild zu vervollständigen, ist Ihre Sicht unverzichtbar.",
-          question3: "Wen suchen Sie besonders für diese Forschung?",
-          answer3: "Wir suchen Angehörige von Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
+          answer1: "Ja. Alle Daten werden gemäß strengen Datenschutzbestimmungen pseudonymisiert oder anonymisiert und gemäß den forschungsethischen Richtlinien behandelt.",
+          question2: "Wieso ist Ihre Perspektive gefragt?",
+          answer2: "Als An- und Zugehörige*r begleiten Sie den Behandlungsweg aus nächster Nähe. Sie nehmen Hürden, Missverständnisse oder Probleme oft anders wahr als die Betroffenen selbst oder das Klinikpersonal. Um das Bild zu vervollständigen, ist Ihre Sicht unverzichtbar.",
+          question3: "Wer wird gesucht?",
+          answer3: "Wir suchen An- und Zugehörige von Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
           question4: "Wie kann ich teilnehmen?",
           answer4: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question5: "Wie hilft diese Forschung?",
-          answer5: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung in der aktuellen Behandlung Ihrer Angehörigen sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
+          answer5: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung in der aktuellen Behandlung Ihrer An- und Zugehörigen sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
         }
       },
 
@@ -1170,7 +1170,7 @@ export const translations = {
           question3: "Wie kann ich teilnehmen?",
           answer3: "Fachkräfte werden eingeladen, ihre Perspektiven durch Interviews, Fragebögen und/oder Co-Creation Workshops zu teilen. Kontaktieren Sie uns gerne, um mehr über Beteiligungsmöglichkeiten zu erfahren.",
           question4: "Wann werden Forschungsergebnisse verfügbar sein?",
-          answer4: "Das Projekt läuft von November 2025 bis Oktober 2028. Vorläufige Ergebnisse während der gesamten Studienzeit werden auf Konferenzen und in Publikationen mit umfassenden Empfehlungen bei Projektabschluss geteilt. Weitere Updates finden Sie in unserer Rubrik ‚Neuigkeiten'."
+          answer4: "Das Projekt läuft von November 2025 bis Oktober 2028. Vorläufige Ergebnisse während der gesamten Studienzeit werden auf Konferenzen und in Publikationen mit umfassenden Empfehlungen bei Projektabschluss geteilt. Weitere Updates finden Sie in unserer Rubrik <a href='/Psy-Diver_Webseite2/news'><strong>Neuigkeiten</strong></a>."
         }
       }
     }

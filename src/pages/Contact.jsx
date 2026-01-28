@@ -29,8 +29,8 @@ function Contact() {
     e.preventDefault();
 
     try {
-      // Send form data to Formspree
-      const response = await fetch('https://formspree.io/f/xwpkgjkq', {
+      // Send form data via Formsubmit (forwards to psy-diver@lvr.de)
+      const response = await fetch('https://formsubmit.co/ajax/psy-diver@lvr.de', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -39,7 +39,7 @@ function Contact() {
         body: JSON.stringify({
           name: formData.name,
           email: formData.email,
-          subject: formData.subject,
+          _subject: formData.subject,
           message: formData.message
         })
       });

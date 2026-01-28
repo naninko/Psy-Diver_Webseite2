@@ -76,7 +76,7 @@ function ForProfessionals() {
               </div>
               <div className="faq-item">
                 <h4>{t('forProfessionals.faq.question4')}</h4>
-                <p>{t('forProfessionals.faq.answer4')}</p>
+                <p dangerouslySetInnerHTML={{ __html: t('forProfessionals.faq.answer4') }} />
               </div>
             </div>
           </div>
