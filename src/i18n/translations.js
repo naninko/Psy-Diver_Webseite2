@@ -319,7 +319,7 @@ export const translations = {
           },
           member2: {
             name: "Dr. med. Sönke Johann Peters (he/him)",
-            role: "Operational Leadership"
+            role: "Operational Project Lead"
           },
           member3: {
             name: "Svenja Kratzke (she/her)",
@@ -957,7 +957,7 @@ export const translations = {
           },
           member7: {
             name: "Prof. Dr. Carolin Schuster (sie/ihr)",
-            role: "Fachliche Direktion Bildung"
+            role: "Fachliche Direktorin Bildung"
           },
           member8: {
             name: "Prof. Dr. med. Jürgen Zielasek (er/ihm)",
