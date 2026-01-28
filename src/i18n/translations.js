@@ -509,7 +509,7 @@ export const translations = {
         title: "For Relatives",
         subtitle: "Inclusion of perspectives from relatives and close ones of people with mental illness",
         whatIsThis: {
-          title: "Why This Research Matters for Families",
+          title: "Why This Research Matters for Close Ones",
           description: "PSY-DIVER is a research initiative examining how psychiatric hospital care can become more equitable and sensitive for all people. We research today for tomorrow's care. Your perspective is at the center: We want to understand where barriers exist in the system and how personal backgrounds <strong style='color: var(--color-navy);'>(gender and gender identity, migration background and nationality, physical and mental abilities, age, religion and worldview, sexual orientation and social background)</strong> influence treatment."
         },
         whatWeOffer: {
@@ -1127,7 +1127,7 @@ export const translations = {
         title: "Für Angehörige",
         subtitle: "Einbeziehung der Perspektiven von An- und Zugehörigen psychisch erkrankter Menschen",
         whatIsThis: {
-          title: "Warum diese Forschung für Familien wichtig ist",
+          title: "Warum diese Forschung für Bezugspersonen wichtig ist",
           description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
         },
         whatWeOffer: {
