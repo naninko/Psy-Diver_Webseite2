@@ -93,6 +93,10 @@
   object-position: center top;
 }
 
+.team-card-image-bottom img {
+  object-position: center bottom;
+}
+
 .team-placeholder-image {
   width: 100%;
   height: 100%;
