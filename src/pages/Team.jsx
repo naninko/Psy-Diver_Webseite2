@@ -78,7 +78,7 @@ function Team() {
           <div className="team-grid">
             {teamMembers.map((member) => (
               <div key={member.id} className="team-card">
-                <div className={`team-card-image ${member.id === 5 ? 'team-card-image-scaled-large' : ''} ${[6, 8].includes(member.id) ? 'team-card-image-scaled' : ''}`}>
+                <div className={`team-card-image ${member.id === 5 ? 'team-card-image-scaled-large' : ''} ${[6, 8].includes(member.id) ? 'team-card-image-scaled' : ''} ${member.id === 7 ? 'team-card-image-top' : ''}`}>
                   {member.image ? (
                     <img src={member.image} alt={member.name} />
                   ) : (

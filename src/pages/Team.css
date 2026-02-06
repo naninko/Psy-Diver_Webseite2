@@ -89,6 +89,10 @@
   object-fit: contain;
 }
 
+.team-card-image-top img {
+  object-position: center top;
+}
+
 .team-placeholder-image {
   width: 100%;
   height: 100%;
