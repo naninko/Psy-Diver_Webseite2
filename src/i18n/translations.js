@@ -344,6 +344,10 @@ export const translations = {
           member8: {
             name: "Prof. Dr. med. Jürgen Zielasek (he/him)",
             role: "Scientific Coordinator"
+          },
+          member9: {
+            name: "Marwan Ahmed (he/him)",
+            role: "Data Engineer"
           }
         }
       },
@@ -962,6 +966,10 @@ export const translations = {
           member8: {
             name: "Prof. Dr. med. Jürgen Zielasek (er/ihm)",
             role: "Wissenschaftlicher Koordinator"
+          },
+          member9: {
+            name: "Marwan Ahmed (er/ihm)",
+            role: "Data Engineer"
           }
         }
       },

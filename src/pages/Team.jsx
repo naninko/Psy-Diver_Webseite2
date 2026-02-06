@@ -53,6 +53,12 @@ function Team() {
       name: t('team.members.member8.name'),
       role: t('team.members.member8.role'),
       image: '/Psy-Diver_Webseite2/Foto_Juergen_Zielasek.jpg'
+    },
+    {
+      id: 9,
+      name: t('team.members.member9.name'),
+      role: t('team.members.member9.role'),
+      image: '/Marwan_Ahmed.jpg'
     }
   ];
 
