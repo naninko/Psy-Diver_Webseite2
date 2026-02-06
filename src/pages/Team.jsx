@@ -44,21 +44,21 @@ function Team() {
     },
     {
       id: 7,
+      name: t('team.members.member9.name'),
+      role: t('team.members.member9.role'),
+      image: '/Psy-Diver_Webseite2/Marwan_Ahmed.jpg'
+    },
+    {
+      id: 8,
       name: t('team.members.member7.name'),
       role: t('team.members.member7.role'),
       image: '/Psy-Diver_Webseite2/Foto_Carolin_Schuster.jpg'
     },
     {
-      id: 8,
+      id: 9,
       name: t('team.members.member8.name'),
       role: t('team.members.member8.role'),
       image: '/Psy-Diver_Webseite2/Foto_Juergen_Zielasek.jpg'
-    },
-    {
-      id: 9,
-      name: t('team.members.member9.name'),
-      role: t('team.members.member9.role'),
-      image: '/Marwan_Ahmed.jpg'
     }
   ];
 
@@ -78,7 +78,7 @@ function Team() {
           <div className="team-grid">
             {teamMembers.map((member) => (
               <div key={member.id} className="team-card">
-                <div className={`team-card-image ${member.id === 5 ? 'team-card-image-scaled-large' : ''} ${[6, 7].includes(member.id) ? 'team-card-image-scaled' : ''}`}>
+                <div className={`team-card-image ${member.id === 5 ? 'team-card-image-scaled-large' : ''} ${[6, 8].includes(member.id) ? 'team-card-image-scaled' : ''}`}>
                   {member.image ? (
                     <img src={member.image} alt={member.name} />
                   ) : (
