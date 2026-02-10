@@ -1126,7 +1126,7 @@ export const translations = {
           question3: "Wie kann ich teilnehmen?",
           answer3: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question4: "Wie hilft diese Forschung?",
-          answer4: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung Ihrer eigenen Versorgung sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
+          answer4: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung Ihrer eigenen Behandlung sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
         }
       },
 
