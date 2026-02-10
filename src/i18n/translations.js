@@ -727,7 +727,7 @@ export const translations = {
           },
           outcomes: {
             title: "Behandlungsergebnisse",
-            description: "Messung der Wirksamkeit bei verschiedenen Patientengruppen zur Sicherstellung einer gerechten Versorgung und positiver Ergebnisse."
+            description: "Messung der Wirksamkeit bei verschiedenen Patient*innengruppen zur Sicherstellung einer gerechten Versorgung und positiver Ergebnisse."
           },
           intersectional: {
             title: "Intersektionale Faktoren",
@@ -801,8 +801,8 @@ export const translations = {
           title: "Federführende Einrichtung",
           name: "LVR-Institut für Forschung und Bildung",
           clinic: "LVR-Klinik Köln",
-          para1: "Das LVR-Institut für Forschung und Bildung an der LVR-Klinik Köln fungiert als federführende Einrichtung für das PSY-DIVER-Projekt und bringt jahrzehntelange Expertise in psychiatrischer Forschung, Patientenversorgung und psychiatrischer Bildung ein.",
-          para2: "Als eine der führenden psychiatrischen Einrichtungen Deutschlands ist die LVR-Klinik Köln einzigartig positioniert, um diese wegweisende Forschungsinitiative zu leiten, mit Zugang zu umfangreichen Patientenpopulationen, modernsten Einrichtungen und einem multidisziplinären Expert*innenteam.",
+          para1: "Das LVR-Institut für Forschung und Bildung an der LVR-Klinik Köln fungiert als federführende Einrichtung für das PSY-DIVER-Projekt und bringt jahrzehntelange Expertise in psychiatrischer Forschung, Patient*innenversorgung und psychiatrischer Bildung ein.",
+          para2: "Als eine der führenden psychiatrischen Einrichtungen Deutschlands ist die LVR-Klinik Köln einzigartig positioniert, um diese wegweisende Forschungsinitiative zu leiten, mit Zugang zu umfangreichen Patient*innenpopulationen, modernsten Einrichtungen und einem multidisziplinären Expert*innenteam.",
           address: "Adresse",
           addressValue: "Wilhelm-Griesinger-Straße 23\n51109 Köln, Deutschland",
           contact: "Kontakt",
@@ -850,7 +850,7 @@ export const translations = {
           outpatient: "Ambulante Fälle pro Jahr",
           duration: "Forschungsdauer",
           funding: "Projektförderung",
-          description: "PSY-DIVER nutzt das umfangreiche psychiatrische Krankenhausnetzwerk innerhalb des LVR und bietet beispiellosen Zugang zu diversen Patientenpopulationen und umfassenden klinischen Daten. Dieser Umfang ermöglicht robuste statistische Analysen und die Generierung bedeutsamer Erkenntnisse, die die psychiatrische Versorgung in Deutschland und darüber hinaus transformieren können."
+          description: "PSY-DIVER nutzt das umfangreiche psychiatrische Krankenhausnetzwerk innerhalb des LVR und bietet beispiellosen Zugang zu diversen Patient*innenpopulationen und umfassenden klinischen Daten. Dieser Umfang ermöglicht robuste statistische Analysen und die Generierung bedeutsamer Erkenntnisse, die die psychiatrische Versorgung in Deutschland und darüber hinaus transformieren können."
         },
 
         collaboration: {
@@ -924,7 +924,7 @@ export const translations = {
             date: "18.02.2026",
             title: "Co-Creation Workshop",
             excerpt: "Partizipativer Workshop zur gemeinsamen Projektgestaltung geplant.",
-            content: "Der Co-Creation Workshop findet am 18.02.2026 von 09:00-15:00 Uhr in der LVR-Klinik Köln statt. Dabei werden ca. 15 Teilnehmer von der Projektsteuerungsgruppe und das Team zusammenkommen, um gemeinsam die weitere Ausrichtung des PSY-DIVER Projekts zu gestalten."
+            content: "Der Co-Creation Workshop findet am 18.02.2026 von 09:00-15:00 Uhr in der LVR-Klinik Köln statt. Dabei werden ca. 15 Teilnehmer*innen von der Projektsteuerungsgruppe und das Team zusammenkommen, um gemeinsam die weitere Ausrichtung des PSY-DIVER Projekts zu gestalten."
           }
         }
       },
@@ -1039,7 +1039,7 @@ export const translations = {
           },
           q4: {
             question: "Suchen Sie Forschungsteilnehmer?",
-            answer: "Unsere Studie umfasst hauptsächlich die Analyse bestehender Krankenakten und Stakeholder-Interviews. Falls wir zusätzliche Teilnehmer benötigen, werden wir Ankündigungen auf unserer Neuigkeiten-Seite veröffentlichen."
+            answer: "Unsere Studie umfasst hauptsächlich die Analyse bestehender Krankenakten und Stakeholder-Interviews. Falls wir zusätzliche Teilnehmer*innen benötigen, werden wir Ankündigungen auf unserer Neuigkeiten-Seite veröffentlichen."
           }
         }
       },
