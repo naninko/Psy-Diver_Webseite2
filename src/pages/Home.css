@@ -84,6 +84,9 @@
 .overview-image img {
   max-width: 100%;
   height: auto;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
 }
 
 /* Partners Section */
