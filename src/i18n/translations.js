@@ -156,7 +156,7 @@ export const translations = {
 
         studyDesign: {
           title: "Study Design & Target Population",
-          text: "PSY-DIVER uses a mixed-methods design. This combines the analysis of large amounts of data with personal surveys. The study design follows a participatory-generative approach and involves people affected by mental illnesses, as well as relatives and close ones of those affected and clinical professionals in core decision-making areas of the project. With the help of artificial intelligence, additional information is obtained from the digital medical records of the nine psychiatric specialty clinics of the LVR. At the same time, personal perspectives are incorporated through qualitative interviews and questionnaires. In a strucligation process, the results are finally evaluated together with affected individuals and professionals, and recommendations for action are developed."
+          text: "PSY-DIVER uses a mixed-methods design. This combines the analysis of large amounts of data with personal surveys. The study design follows a participatory-generative approach and involves people affected by mental illnesses, as well as relatives and close ones of those affected and clinical professionals in core decision-making areas of the project. With the help of artificial intelligence, additional information is obtained from the digital medical records of the nine psychiatric specialty clinics of the LVR. At the same time, personal perspectives are incorporated through qualitative interviews and questionnaires. In a structured participation process, the results are then evaluated together with stakeholders and experts, and recommendations for further action are developed."
         },
 
         fundersPartners: {
