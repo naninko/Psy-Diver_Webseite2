@@ -659,7 +659,7 @@ export const translations = {
           title: "Informationen",
           forPatients: {
             title: "Für Betroffene",
-            description: "Gestalten Sie die psychiatrische Versorgung der Zukunft aktiv mit! Wir laden Sie ein, Ihre persönlichen Erfahrungen im Rahmen eines Interviews oder eines Online-Fragebogens mit uns zu teilen. Ihre Stimme hilft uns dabei, Behandlungen individueller, gerechter und wirksamer zu machen.",
+            description: "Gestalten Sie die psychiatrische Versorgung der Zukunft aktiv mit! Wir laden Sie ein, Ihre persönlichen Erfahrungen im Rahmen eines Interviews oder eines Online-Fragebogens mit uns zu teilen. Ihre Stimme hilft uns dabei, Versorgung individueller, gerechter und wirksamer zu machen.",
             button: "Mehr erfahren & teilnehmen"
           },
           forRelatives: {
@@ -684,7 +684,7 @@ export const translations = {
           },
           goals: {
             title: "Forschungsziele",
-            description: "Untersuchung, wie psychiatrische Patient*innen durch intersektionale Analyse eine individuellere und geschlechtergerechte Behandlung erhalten können."
+            description: "Untersuchung, wie psychiatrische Patient*innen durch intersektionale Analyse eine individuellere und geschlechtergerechte Versorgung erhalten können."
           },
           methodology: {
             title: "Methodik",
@@ -818,7 +818,7 @@ export const translations = {
           expertiseTitle: "Fachgebiete:",
           expertise1: "Geschlechtersensible psychiatrische Versorgung",
           expertise2: "Diversität und Inklusion in der psychischen Gesundheit",
-          expertise3: "Intersektionale Ansätze in der psychiatrischen Behandlung",
+          expertise3: "Intersektionale Ansätze in der psychiatrischen Versorgung",
           expertise4: "Klinische Forschungsmethodik",
           expertise5: "Gesundheitliche Chancengleichheit und Qualitätsverbesserung"
         },
@@ -1081,7 +1081,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von Menschen mit psychischen Erkrankungen",
         whatIsThis: {
           title: "Was ist PSY-DIVER?",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
@@ -1096,7 +1096,7 @@ export const translations = {
         },
         card3: {
           title: "Gerechte Versorgung für alle",
-          description: "Unser Ziel ist es, Konzepte zu verbessern, damit jede Person eine Behandlung erhält, die die eigene Identität respektiert und auf individuelle Bedürfnisse zugeschnitten ist – unabhängig von Geschlecht, Herkunft oder Lebensweise."
+          description: "Unser Ziel ist es, Konzepte zu verbessern, damit jede Person eine Versorgung erhält, die die eigene Identität respektiert und auf individuelle Bedürfnisse zugeschnitten ist – unabhängig von Geschlecht, Herkunft oder Lebensweise."
         },
         card4: {
           title: "Gemeinsam Barrieren abbauen",
@@ -1106,7 +1106,7 @@ export const translations = {
           title: "Wege der Beteiligung",
           method1: {
             title: "Betroffenen-Interview (ca. 60 Min.)",
-            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen mit der psychiatrischen Versorgung, wahrgenommene Barrieren und Ihre Bedürfnisse für eine diversitätssensible Behandlung."
+            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen mit der psychiatrischen Versorgung, wahrgenommene Barrieren und Ihre Bedürfnisse für eine diversitätssensible Versorgung."
           },
           method2: {
             title: "Online-Befragung (ca. 30–45 Min.)",
@@ -1126,7 +1126,7 @@ export const translations = {
           question3: "Wie kann ich teilnehmen?",
           answer3: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question4: "Wie hilft diese Forschung?",
-          answer4: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung Ihrer eigenen Behandlung sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
+          answer4: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung Ihrer eigenen Versorgung sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
         }
       },
 
@@ -1136,7 +1136,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von An- und Zugehörigen psychisch erkrankter Menschen",
         whatIsThis: {
           title: "Warum diese Forschung für Bezugspersonen wichtig ist",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
@@ -1151,7 +1151,7 @@ export const translations = {
         },
         card3: {
           title: "Gerechte Versorgung für alle",
-          description: "Unser Ziel ist es, Konzepte zu verbessern, damit jede Person eine Behandlung erhält, die die eigene Identität respektiert und auf individuelle Bedürfnisse zugeschnitten ist – unabhängig von Geschlecht, Herkunft oder Lebensweise."
+          description: "Unser Ziel ist es, Konzepte zu verbessern, damit jede Person eine Versorgung erhält, die die eigene Identität respektiert und auf individuelle Bedürfnisse zugeschnitten ist – unabhängig von Geschlecht, Herkunft oder Lebensweise."
         },
         card4: {
           title: "Gemeinsam Barrieren abbauen",
@@ -1183,7 +1183,7 @@ export const translations = {
           question4: "Wie kann ich teilnehmen?",
           answer4: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question5: "Wie hilft diese Forschung?",
-          answer5: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung in der aktuellen Behandlung Ihrer An- und Zugehörigen sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
+          answer5: "PSY-DIVER ist kein therapeutisches Angebot. Auch wenn Sie keine unmittelbare Veränderung in der aktuellen Versorgung Ihrer An- und Zugehörigen sehen, leisten Sie einen wertvollen Beitrag, um die Versorgung für künftige Betroffene zu verbessern."
         }
       },
 
@@ -1218,7 +1218,7 @@ export const translations = {
           title: "Wege der Beteiligung",
           method1: {
             title: "Fachkräfte-Interview (ca. 60 Min.)",
-            description: "Ein Gespräch (online oder vor Ort) über Ihre Einstellungen zur diversitätssensiblen Versorgung, Ihr Wissen über Diversitätsfaktoren und Ihre Wahrnehmung der aktuellen Behandlungsprozesse."
+            description: "Ein Gespräch (online oder vor Ort) über Ihre Einstellungen zur diversitätssensiblen Versorgung, Ihr Wissen über Diversitätsfaktoren und Ihre Wahrnehmung der aktuellen Versorgungsprozesse."
           },
           method2: {
             title: "Online-Befragung (ca. 30–45 Min.)",
@@ -1234,7 +1234,7 @@ export const translations = {
           question1: "Werden meine Informationen vertraulich behandelt?",
           answer1: "Ja. Alle Angaben werden sicher und nach aktuellen Datenschutzstandards behandelt. Ihre Teilnahme ist freiwillig und vertraulich.",
           question2: "Welches Fachwissen wird für die Studie gesucht?",
-          answer2: "Im Zentrum von PSY-DIVER steht die Versorgung von Menschen, deren Perspektiven im Gesundheitssystem oft unterrepräsentiert sind. Wir suchen daher Austausch mit Fachkräften, die Erfahrung in der Behandlung von diversen Gruppen haben (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
+          answer2: "Im Zentrum von PSY-DIVER steht die Versorgung von Menschen, deren Perspektiven im Gesundheitssystem oft unterrepräsentiert sind. Wir suchen daher Austausch mit Fachkräften, die Erfahrung in der Versorgung von diversen Gruppen haben (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
           question3: "Wie kann ich teilnehmen?",
           answer3: "Fachkräfte werden eingeladen, ihre Perspektiven durch Interviews, Fragebögen und/oder Co-Creation Workshops zu teilen. Kontaktieren Sie uns gerne, um mehr über Beteiligungsmöglichkeiten zu erfahren.",
           question4: "Wann werden Forschungsergebnisse verfügbar sein?",
