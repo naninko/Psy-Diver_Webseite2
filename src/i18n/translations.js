@@ -659,7 +659,7 @@ export const translations = {
           title: "Informationen",
           forPatients: {
             title: "Für Betroffene",
-            description: "Gestalten Sie die psychiatrische Versorgung der Zukunft aktiv mit! Wir laden Sie ein, Ihre persönlichen Erfahrungen im Rahmen eines Interviews oder eines Online-Fragebogens mit uns zu teilen. Ihre Stimme hilft uns dabei, Versorgung individueller, gerechter und wirksamer zu machen.",
+            description: "Gestalten Sie die psychiatrische Versorgung der Zukunft aktiv mit! Wir laden Sie ein, Ihre persönlichen Erfahrungen im Rahmen eines Interviews oder eines Online-Fragebogens mit uns zu teilen. Ihre Stimme hilft uns dabei, Behandlungen individueller, gerechter und wirksamer zu machen.",
             button: "Mehr erfahren & teilnehmen"
           },
           forRelatives: {
