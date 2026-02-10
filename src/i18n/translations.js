@@ -677,14 +677,14 @@ export const translations = {
         highlights: {
           title: "Projekt-Highlights",
           intro: {
-            para1: "Das Projekt PSY-DIVER setzt hier an und untersucht, wie Patientinnen und Patienten künftig individueller, geschlechts- und diversitätsgerechter betrachtet und behandelt werden können. Hierzu werden Daten aus einem großen psychiatrischen Klinikverbund mit jährlich rund 50.000 stationären und 170.000 ambulanten Fällen herangezogen. Dabei wird gezielt auf Unterschiede etwa in der Medikation, den angewandten Therapien und dem Behandlungserfolg – je nach Geschlecht, Herkunft, Wohnsituation oder weiteren Merkmalen geschaut. Zusätzlich werden Patientinnen und Patienten, An- und Zugehörigen sowie Fachpersonal befragt, um ihre Erfahrungen und Bedürfnisse besser zu verstehen. Das Ziel ist eine psychiatrische Versorgung, die alle Menschen im Blick hat.",
+            para1: "Das Projekt PSY-DIVER setzt hier an und untersucht, wie Patient*innen künftig individueller, geschlechts- und diversitätsgerechter betrachtet und behandelt werden können. Hierzu werden Daten aus einem großen psychiatrischen Klinikverbund mit jährlich rund 50.000 stationären und 170.000 ambulanten Fällen herangezogen. Dabei wird gezielt auf Unterschiede etwa in der Medikation, den angewandten Therapien und dem Behandlungserfolg – je nach Geschlecht, Herkunft, Wohnsituation oder weiteren Merkmalen geschaut. Zusätzlich werden Patient*innen, An- und Zugehörigen sowie Fachpersonal befragt, um ihre Erfahrungen und Bedürfnisse besser zu verstehen. Das Ziel ist eine psychiatrische Versorgung, die alle Menschen im Blick hat.",
             para2: "Das Projekt nutzt ein sogenanntes Mixed-Methods-Design. Dabei werden die Auswertungen großer Datenmengen und persönlicher Befragungen kombiniert. Mithilfe von künstlicher Intelligenz werden aus den digitalen Krankenakten zusätzliche Informationen gewonnen. Gleichzeitig fließen über Interviews und Fragebögen persönliche Sichtweisen ein. In einem strukturierten Beteiligungsprozess werden die Ergebnisse schließlich gemeinsam mit Betroffenen und Fachleuten bewertet und Handlungsempfehlungen erarbeitet.",
             para3: "Das Projekt wird für drei Jahre mit insgesamt ca. einer Millionen Euro gefördert.",
-            para4: "Die Handlungsempfehlungen werden dazu beitragen, die psychiatrische Versorgung künftig gerechter, individueller und wirksamer zu gestalten – und zwar für alle Patientinnen und Patienten, unabhängig von ihrem Geschlecht oder ihrem sozialen Hintergrund."
+            para4: "Die Handlungsempfehlungen werden dazu beitragen, die psychiatrische Versorgung künftig gerechter, individueller und wirksamer zu gestalten – und zwar für alle Patient*innen, unabhängig von ihrem Geschlecht oder ihrem sozialen Hintergrund."
           },
           goals: {
             title: "Forschungsziele",
-            description: "Untersuchung, wie psychiatrische Patienten durch intersektionale Analyse eine individuellere und geschlechtergerechte Behandlung erhalten können."
+            description: "Untersuchung, wie psychiatrische Patient*innen durch intersektionale Analyse eine individuellere und geschlechtergerechte Behandlung erhalten können."
           },
           methodology: {
             title: "Methodik",
@@ -696,7 +696,7 @@ export const translations = {
           },
           impact: {
             title: "Erwartete Wirkung",
-            description: "Evidenzbasierte Empfehlungen zur Verbesserung der Gleichberechtigung und Wirksamkeit der psychiatrischen Versorgung für alle Patienten."
+            description: "Evidenzbasierte Empfehlungen zur Verbesserung der Gleichberechtigung und Wirksamkeit der psychiatrischen Versorgung für alle Patient*innen."
           }
         },
 
@@ -802,7 +802,7 @@ export const translations = {
           name: "LVR-Institut für Forschung und Bildung",
           clinic: "LVR-Klinik Köln",
           para1: "Das LVR-Institut für Forschung und Bildung an der LVR-Klinik Köln fungiert als federführende Einrichtung für das PSY-DIVER-Projekt und bringt jahrzehntelange Expertise in psychiatrischer Forschung, Patientenversorgung und psychiatrischer Bildung ein.",
-          para2: "Als eine der führenden psychiatrischen Einrichtungen Deutschlands ist die LVR-Klinik Köln einzigartig positioniert, um diese wegweisende Forschungsinitiative zu leiten, mit Zugang zu umfangreichen Patientenpopulationen, modernsten Einrichtungen und einem multidisziplinären Expertenteam.",
+          para2: "Als eine der führenden psychiatrischen Einrichtungen Deutschlands ist die LVR-Klinik Köln einzigartig positioniert, um diese wegweisende Forschungsinitiative zu leiten, mit Zugang zu umfangreichen Patientenpopulationen, modernsten Einrichtungen und einem multidisziplinären Expert*innenteam.",
           address: "Adresse",
           addressValue: "Wilhelm-Griesinger-Straße 23\n51109 Köln, Deutschland",
           contact: "Kontakt",
@@ -855,7 +855,7 @@ export const translations = {
 
         collaboration: {
           title: "Kooperationsmöglichkeiten",
-          description: "Wir begrüßen die Zusammenarbeit mit Forschern, Gesundheitseinrichtungen, politischen Entscheidungsträgern und Stakeholdern, die an der Förderung von Gleichberechtigung und Exzellenz in der psychiatrischen Versorgung interessiert sind. Wenn Sie mehr über Partnerschaftsmöglichkeiten erfahren möchten, kontaktieren Sie bitte unser Team."
+          description: "Wir begrüßen die Zusammenarbeit mit Forscher*innen, Gesundheitseinrichtungen, politischen Entscheidungsträger*innen und Stakeholdern, die an der Förderung von Gleichberechtigung und Exzellenz in der psychiatrischen Versorgung interessiert sind. Wenn Sie mehr über Partnerschaftsmöglichkeiten erfahren möchten, kontaktieren Sie bitte unser Team."
         }
       },
 
@@ -912,7 +912,7 @@ export const translations = {
             date: "Februar 2026",
             title: "Forschungsteam vollständig aufgebaut",
             excerpt: "Unser multidisziplinäres Forschungsteam wurde zusammengestellt.",
-            content: "Wir sind stolz, den Abschluss unseres Forschungsteamaufbaus bekannt zu geben, der Experten aus Psychiatrie, Datenwissenschaft und Gesundheitsgerechtigkeitsforschung zusammenbringt."
+            content: "Wir sind stolz, den Abschluss unseres Forschungsteamaufbaus bekannt zu geben, der Expert*innen aus Psychiatrie, Datenwissenschaft und Gesundheitsgerechtigkeitsforschung zusammenbringt."
           },
           item3: {
             date: "Januar 2026",
@@ -1027,7 +1027,7 @@ export const translations = {
           title: "Häufig gestellte Fragen",
           q1: {
             question: "Wie kann ich mit PSY-DIVER zusammenarbeiten?",
-            answer: "Wir begrüßen die Zusammenarbeit mit Forschern, Institutionen und Stakeholdern. Bitte nutzen Sie das obige Kontaktformular mit der Option \"Forschungskooperation\" und geben Sie Details zu Ihren Interessen und Ihrer Expertise an."
+            answer: "Wir begrüßen die Zusammenarbeit mit Forscher*innen, Institutionen und Stakeholdern. Bitte nutzen Sie das obige Kontaktformular mit der Option \"Forschungskooperation\" und geben Sie Details zu Ihren Interessen und Ihrer Expertise an."
           },
           q2: {
             question: "Kann ich auf Forschungsdaten zugreifen?",
@@ -1114,7 +1114,7 @@ export const translations = {
           },
           method3: {
             title: "Co-Creation Workshop",
-            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forschenden und anderen Teilnehmenden, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der Betroffenen widerspiegeln."
+            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forscher*innen und anderen Teilnehmer*innen, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der Betroffenen widerspiegeln."
           }
         },
         faq: {
@@ -1169,7 +1169,7 @@ export const translations = {
           },
           method3: {
             title: "Co-Creation Workshop",
-            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forschenden und anderen Teilnehmenden, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der An- und Zugehörigen widerspiegeln."
+            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forscher*innen und anderen Teilnehmer*innen, um sicherzustellen, dass die Ergebnisse die tatsächlichen Bedürfnisse der An- und Zugehörigen widerspiegeln."
           }
         },
         faq: {
@@ -1226,7 +1226,7 @@ export const translations = {
           },
           method3: {
             title: "Co-Creation Workshop",
-            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forschenden und anderen Stakeholdern, um sicherzustellen, dass die Ergebnisse in der klinischen Praxis anwendbar sind."
+            description: "Kollaborative Erarbeitung von Handlungsempfehlungen gemeinsam mit Forscher*innen und anderen Stakeholdern, um sicherzustellen, dass die Ergebnisse in der klinischen Praxis anwendbar sind."
           }
         },
         faq: {
