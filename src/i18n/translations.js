@@ -653,7 +653,7 @@ export const translations = {
       home: {
         title: "PSY-DIVER",
         subtitle: "Geschlecht und andere diversitätsbezogene Faktoren in der psychiatrisch-psychotherapeutischen Krankenhausversorgung",
-        description: "Eine wegweisende Forschungsinitiative, die die sieben Diversitätsdimensionen <strong>(Geschlecht, ethnische Herkunft und Nationalität, soziale Herkunft, Lebensalter, Religion und Weltanschauung, sexuelle Orientierung und geschlechtliche Identität, sowie körperliche und geistige Fähigkeiten)</strong> in der psychiatrischen Versorgung untersucht.",
+        description: "Eine wegweisende Forschungsinitiative, die die sieben Diversitätsdimensionen <strong>(Geschlecht, ethnische Herkunft und Nationalität, soziale Herkunft, Lebensalter, Religion und Weltanschauung, sexuelle Orientierung und geschlechtliche Identität, sowie körperliche und geistige Fähigkeiten)</strong> in der psychiatrisch-psychotherapeutischer Versorgung untersucht.",
 
         targetAudience: {
           title: "Informationen",
@@ -696,7 +696,7 @@ export const translations = {
           },
           impact: {
             title: "Erwartete Wirkung",
-            description: "Evidenzbasierte Empfehlungen zur Verbesserung der Gleichberechtigung und Wirksamkeit der psychiatrischen Versorgung für alle Patient*innen."
+            description: "Evidenzbasierte Empfehlungen zur Verbesserung der Gleichberechtigung und Wirksamkeit der psychiatrisch-psychotherapeutischer Versorgung für alle Patient*innen."
           }
         },
 
@@ -750,9 +750,9 @@ export const translations = {
 
         overview: {
           title: "Projektübersicht",
-          text: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrischen Versorgung berücksichtigt.\n\nDas Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
-          para1: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrischen Versorgung berücksichtigt.",
-          para2: "Das Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrischen Versorgung.",
+          text: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrisch-psychotherapeutischer Versorgung berücksichtigt.\n\nDas Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrisch-psychotherapeutischer Versorgung.",
+          para1: "Psychische Erkrankungen treffen viele Menschen, jedoch nicht alle auf die gleiche Weise. Geschlecht, Herkunft, soziale Lage, Wohnsituation und weitere Aspekte (die sieben Diversitätsdimensionen der <a href='https://www.charta-der-vielfalt.de/vielfaltsdimensionen' target='_blank' rel='noopener noreferrer'>Charta der Vielfalt</a>) beeinflussen, wie Betroffene erkranken, welche Therapien sie erhalten und wie gut die Therapien wirken. Trotzdem werden diese Unterschiede bislang kaum systematisch in der psychiatrisch-psychotherapeutischer Versorgung berücksichtigt.",
+          para2: "Das Projekt PSY-DIVER wird durch den Innovationsausschuss des Gemeinsamen Bundesauschuss (G-BA) gefördert und untersucht, wie diese und weitere diversitätsbezogene Faktoren in Zukunft besser berücksichtigt werden können. Dafür werden Daten aus dem LVR-Klinikverbund ausgewertet, der jährlich rund 50.000 stationäre und 170.000 ambulante Betroffene mit psychischen Erkrankungen betreut. Zusätzlich werden Betroffene, An- und Zugehörigen und Fachkräfte befragt, damit ihre Erfahrungen und Bedürfnisse besser verstanden werden. Das Projekt integriert Elemente der partizipativen Forschung, bei der Betroffene aktiv einbezogen werden. Nach der Datenauswertung ist das Ziel die gemeinsame Entwicklung von Handlungsempfehlungen für eine geschlechts- und diversitätssensible Gestaltung der psychiatrisch-psychotherapeutischer Versorgung.",
           partners: "PSY-DIVER ist ein Projekt des <strong>LVR-Instituts für Forschung und Bildung (IFuB)</strong>. Das Projekt wird durch den <strong>Innovationsfonds beim Gemeinsamen Bundesausschuss (G-BA)</strong> finanziell gefördert und durch die <strong>Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde e. V. (DGPPN)</strong> unterstützt."
         },
 
@@ -818,7 +818,7 @@ export const translations = {
           expertiseTitle: "Fachgebiete:",
           expertise1: "Geschlechtersensible psychiatrische Versorgung",
           expertise2: "Diversität und Inklusion in der psychischen Gesundheit",
-          expertise3: "Intersektionale Ansätze in der psychiatrischen Versorgung",
+          expertise3: "Intersektionale Ansätze in der psychiatrisch-psychotherapeutischer Versorgung",
           expertise4: "Klinische Forschungsmethodik",
           expertise5: "Gesundheitliche Chancengleichheit und Qualitätsverbesserung"
         },
@@ -840,7 +840,7 @@ export const translations = {
           },
           education: {
             title: "Bildung & Schulung",
-            description: "Bereitstellung umfassender Bildungs- und Fortbildungsprogramme für medizinisches Fachpersonal in der psychiatrischen Versorgung."
+            description: "Bereitstellung umfassender Bildungs- und Fortbildungsprogramme für medizinisches Fachpersonal in der psychiatrisch-psychotherapeutischer Versorgung."
           }
         },
 
@@ -855,7 +855,7 @@ export const translations = {
 
         collaboration: {
           title: "Kooperationsmöglichkeiten",
-          description: "Wir begrüßen die Zusammenarbeit mit Forscher*innen, Gesundheitseinrichtungen, politischen Entscheidungsträger*innen und Stakeholdern, die an der Förderung von Gleichberechtigung und Exzellenz in der psychiatrischen Versorgung interessiert sind. Wenn Sie mehr über Partnerschaftsmöglichkeiten erfahren möchten, kontaktieren Sie bitte unser Team."
+          description: "Wir begrüßen die Zusammenarbeit mit Forscher*innen, Gesundheitseinrichtungen, politischen Entscheidungsträger*innen und Stakeholdern, die an der Förderung von Gleichberechtigung und Exzellenz in der psychiatrisch-psychotherapeutischer Versorgung interessiert sind. Wenn Sie mehr über Partnerschaftsmöglichkeiten erfahren möchten, kontaktieren Sie bitte unser Team."
         }
       },
 
@@ -1081,7 +1081,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von Menschen mit psychischen Erkrankungen",
         whatIsThis: {
           title: "Was ist PSY-DIVER?",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
@@ -1106,7 +1106,7 @@ export const translations = {
           title: "Wege der Beteiligung",
           method1: {
             title: "Betroffenen-Interview (ca. 60 Min.)",
-            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen mit der psychiatrischen Versorgung, wahrgenommene Barrieren und Ihre Bedürfnisse für eine diversitätssensible Versorgung."
+            description: "Ein Gespräch (online oder vor Ort) über Ihre Erfahrungen mit der psychiatrisch-psychotherapeutischer Versorgung, wahrgenommene Barrieren und Ihre Bedürfnisse für eine diversitätssensible Versorgung."
           },
           method2: {
             title: "Online-Befragung (ca. 30–45 Min.)",
@@ -1122,7 +1122,7 @@ export const translations = {
           question1: "Werden meine Informationen vertraulich behandelt?",
           answer1: "Ja. Alle Daten werden gemäß strengen Datenschutzbestimmungen pseudonymisiert oder anonymisiert und gemäß den forschungsethischen Richtlinien behandelt.",
           question2: "Wer wird gesucht?",
-          answer2: "Die Forschung bezieht sich auf Menschen, die selbst von einer psychischen Erkrankung betroffen sind oder waren und psychiatrische Behandlungserfahrung gemacht haben. Wir suchen insbesondere Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
+          answer2: "Die Forschung bezieht sich auf Menschen, die selbst von einer psychischen Erkrankung betroffen sind oder waren und psychiatrische Behandlungserfahrung gemacht haben. Wir suchen insbesondere Menschen, deren Perspektiven in der psychiatrisch-psychotherapeutischer Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
           question3: "Wie kann ich teilnehmen?",
           answer3: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question4: "Wie hilft diese Forschung?",
@@ -1136,7 +1136,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von An- und Zugehörigen psychisch erkrankter Menschen",
         whatIsThis: {
           title: "Warum diese Forschung für Bezugspersonen wichtig ist",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrische Krankenhausversorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
@@ -1165,7 +1165,7 @@ export const translations = {
           },
           method2: {
             title: "Online-Befragung (ca. 30–45 Min.)",
-            description: "Einmalige Teilnahme an einer strukturierten Erhebung zu Ihren Erfahrungen, wahrgenommenen Barrieren und Verbesserungsvorschlägen in der psychiatrischen Versorgung."
+            description: "Einmalige Teilnahme an einer strukturierten Erhebung zu Ihren Erfahrungen, wahrgenommenen Barrieren und Verbesserungsvorschlägen in der psychiatrisch-psychotherapeutischer Versorgung."
           },
           method3: {
             title: "Co-Creation Workshop",
@@ -1179,7 +1179,7 @@ export const translations = {
           question2: "Wieso ist Ihre Perspektive gefragt?",
           answer2: "Als An- und Zugehörige*r begleiten Sie den Behandlungsweg aus nächster Nähe. Sie nehmen Hürden, Missverständnisse oder Probleme oft anders wahr als die Betroffenen selbst oder das Klinikpersonal. Um das Bild zu vervollständigen, ist Ihre Sicht unverzichtbar.",
           question3: "Wer wird gesucht?",
-          answer3: "Wir suchen An- und Zugehörige von Menschen, deren Perspektiven in der psychiatrischen Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
+          answer3: "Wir suchen An- und Zugehörige von Menschen, deren Perspektiven in der psychiatrisch-psychotherapeutischer Versorgung oft zu wenig berücksichtigt werden (z. B. Frauen, ältere Menschen, Menschen aus der LGBTQIA*-Community, mit Migrationsgeschichte, Behinderung, nicht-weißer Hautfarbe, niedrigen Bildungschancen und geringem Einkommen).",
           question4: "Wie kann ich teilnehmen?",
           answer4: "Wenn Sie an der Studie teilnehmen möchten, können Sie uns direkt kontaktieren, um entweder an einem persönlichen Interview oder an unserem Online-Fragebogen teilzunehmen.",
           question5: "Wie hilft diese Forschung?",
@@ -1208,7 +1208,7 @@ export const translations = {
         },
         card3: {
           title: "Fundierte Forschung",
-          description: "Wir kombinieren die Analyse von jährlich ca. 50.000 stationären Fällen mit Ihren qualitativen Einblicken. So entsteht ein präzises Bild der psychiatrischen Versorgungslandschaft, das wissenschaftliche Tiefe mit klinischer Relevanz vereint."
+          description: "Wir kombinieren die Analyse von jährlich ca. 50.000 stationären Fällen mit Ihren qualitativen Einblicken. So entsteht ein präzises Bild der psychiatrisch-psychotherapeutischer Versorgungslandschaft, das wissenschaftliche Tiefe mit klinischer Relevanz vereint."
         },
         card4: {
           title: "Kollaborativer Ansatz",
