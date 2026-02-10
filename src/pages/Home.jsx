@@ -40,9 +40,7 @@ function Home() {
           <div className="overview-content">
             <p dangerouslySetInnerHTML={{ __html: t('about.overview.para1') }}></p>
             <div className="overview-image">
-              <object data="/Psy-Diver_Webseite2/7_Dimensionen.pdf" type="application/pdf" width="100%" height="500px">
-                <p>PDF kann nicht angezeigt werden. <a href="/Psy-Diver_Webseite2/7_Dimensionen.pdf">PDF herunterladen</a></p>
-              </object>
+              <img src="/Psy-Diver_Webseite2/7_Dimensionen.png" alt="7 Diversitätsdimensionen" />
             </div>
             <p dangerouslySetInnerHTML={{ __html: t('about.overview.para2') }}></p>
           </div>
