@@ -156,7 +156,7 @@
 
 .funders-partners-section .partners-logos {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   gap: var(--spacing-xl);
   flex-wrap: wrap;
