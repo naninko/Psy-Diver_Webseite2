@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
+import ReadAloud from './components/ReadAloud';
 import Home from './pages/Home';
 import About from './pages/About';
 import Team from './pages/Team';
@@ -47,6 +48,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <ReadAloud />
       </div>
     </Router>
   );
