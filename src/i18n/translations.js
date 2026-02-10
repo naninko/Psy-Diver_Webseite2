@@ -434,7 +434,7 @@ export const translations = {
         duration: "Duration",
         durationValue: "November 2025 - October 2028",
         location: "Location",
-        locationValue: "Landschaftsverband Rheinland (LVR)\nLVR-Institute for Research and Education (IFuB)\nResearch Division\nWilhelm-Griesinger-Straße 23\n51109 Cologne",
+        locationValue: "Landschaftsverband Rheinland (LVR)\nLVR-Institute for Research and Education (IFuB)\nResearch Division\nc/o LVR-Klinik Köln\nWilhelm-Griesinger-Straße 23\n51109 Cologne",
         copyright: "LVR-Institute for Research and Education"
       },
 
@@ -1056,7 +1056,7 @@ export const translations = {
         duration: "Laufzeit",
         durationValue: "November 2025 - Oktober 2028",
         location: "Standort",
-        locationValue: "Landschaftsverband Rheinland (LVR)\nLVR-Institut für Forschung und Bildung (IFuB)\nSparte Forschung\nWilhelm-Griesinger-Straße 23\n51109 Köln",
+        locationValue: "Landschaftsverband Rheinland (LVR)\nLVR-Institut für Forschung und Bildung (IFuB)\nSparte Forschung\nc/o LVR-Klinik Köln\nWilhelm-Griesinger-Straße 23\n51109 Köln",
         copyright: "LVR-Institut für Forschung und Bildung"
       },
 
