@@ -1081,7 +1081,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von Menschen mit psychischen Erkrankungen",
         whatIsThis: {
           title: "Was ist PSY-DIVER?",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
@@ -1136,7 +1136,7 @@ export const translations = {
         subtitle: "Einbeziehung der Perspektiven von An- und Zugehörigen psychisch erkrankter Menschen",
         whatIsThis: {
           title: "Warum diese Forschung für Bezugspersonen wichtig ist",
-          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Versorgung beeinflussen."
+          description: "PSY-DIVER ist eine Forschungsinitiative, die untersucht, wie die psychiatrisch-psychotherapeutische Versorgung für alle Menschen gerechter und sensibler werden kann. Wir forschen heute für die Versorgung von morgen. Dabei steht Ihre Perspektive im Mittelpunkt: Wir möchten verstehen, wo Barrieren im System liegen und wie persönliche Hintergründe <strong style='color: var(--color-navy);'>(Geschlecht und geschlechtliche Identität, Migrationsgeschichte und Nationalität, körperliche und geistige Fähigkeiten, Alter, Religion und Weltanschauung, sexuelle Orientierung und soziale Herkunft)</strong> die Behandlung beeinflussen."
         },
         whatWeOffer: {
           title: "Wie Sie mitwirken können"
