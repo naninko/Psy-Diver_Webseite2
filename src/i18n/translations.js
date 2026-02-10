@@ -5,7 +5,7 @@ export const translations = {
       nav: {
         home: "Home",
         about: "About the Project",
-        forPatients: "For Affected",
+        forPatients: "For People with Mental Illness",
         forRelatives: "For Relatives",
         forProfessionals: "For Clinical Professionals",
         team: "About Us",
@@ -35,7 +35,7 @@ export const translations = {
         targetAudience: {
           title: "Information",
           forPatients: {
-            title: "For Affected",
+            title: "For People with Mental Illness",
             description: "Help shape the future of psychiatric care! We invite you to share your personal experiences through an interview or online questionnaire. Your voice helps us make treatments more individualized, equitable, and effective.",
             button: "Learn more & participate"
           },
@@ -453,9 +453,9 @@ export const translations = {
         }
       },
 
-      // For Affected Page
+      // For People with Mental Illness Page
       forPatients: {
-        title: "For Affected",
+        title: "For People with Mental Illness",
         subtitle: "Inclusion of perspectives from people with mental illness",
         whatIsThis: {
           title: "What is PSY-DIVER?",
