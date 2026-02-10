@@ -15,16 +15,10 @@ function ReadAloud() {
   }, [i18n.language]);
 
   // Process text for better pronunciation
-  const processTextForSpeech = (text, language) => {
+  const processTextForSpeech = (text) => {
     // Replace PSY-DIVER with phonetic spelling
-    // PSY = "psi" (like in Psychiatrie), DIVER = English "diver"
-    if (language === 'de') {
-      // German: "Psi-Deiwer" for correct pronunciation
-      return text.replace(/PSY-DIVER/gi, 'Psi-Deiwer');
-    } else {
-      // English: "Sigh-Diver" for correct pronunciation
-      return text.replace(/PSY-DIVER/gi, 'Sigh-Diver');
-    }
+    // PSY = "sigh" (like Greek psi), DIVER = English "diver"
+    return text.replace(/PSY-DIVER/gi, 'Sigh-Diver');
   };
 
   const getPageText = () => {
@@ -58,7 +52,7 @@ function ReadAloud() {
       if (!rawText.trim()) return;
 
       // Process text for correct pronunciation
-      const text = processTextForSpeech(rawText, i18n.language);
+      const text = processTextForSpeech(rawText);
 
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = i18n.language === 'de' ? 'de-DE' : 'en-US';
